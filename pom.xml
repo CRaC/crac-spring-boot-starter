@@ -8,7 +8,7 @@
     </parent>
     <groupId>io.github.crac.org.springframework.boot</groupId>
     <artifactId>crac-spring-boot-starter</artifactId>
-    <version>3.4.3</version>
+    <version>999-SNAPSHOT</version>
     <name>Spring Boot CRaC Auxiliary</name>
     <description>Helper classes for CRaCing applications on Spring Boot</description>
     <developers>
@@ -22,7 +22,7 @@
     <scm>
         <connection>scm:git:git@github.com:CRaC/crac-spring-boot-starter.git</connection>
         <url>https://github.com/CRaC/crac-spring-boot-starter</url>
-        <tag>3.4.3</tag>
+        <tag>HEAD</tag>
     </scm>
     <url>https://crac.org/</url>
     <distributionManagement>
